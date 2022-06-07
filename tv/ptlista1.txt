@@ -5,6 +5,14 @@
 </item>
 
 <item>
+<title>SPORT TV1 TESTE</title>
+<link>https://qpbfxjcrsiogsqxo.wzcdn594.net:8443/hls/walxjawfo5x.m3u8?s=SY0SElv2vxxAfenbaD6eTA&e=1654637326|User-Agent=ExoMedia</link>
+<thumbnail>LINK DA IMAGEM QUE FICA NO LADO DO KODI</thumbnail>
+<info>INFO DOS CANAIS.</info>
+</item>
+
+
+<item>
 <title>SPORT TV2</title>
 <link>https://qpbfxjcrsiogsqxo.wzcdn594.net:8443/hls/u225jtufy2dkv.m3u8?s=FNgJ9IcXhajuSQy46ne4rA&e=1654636955</link>
 <thumbnail>https://www.sporttv.pt/img/static/sport-tv-institucional.png</thumbnail>

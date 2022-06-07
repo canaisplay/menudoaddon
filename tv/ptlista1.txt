@@ -1,9 +1,7 @@
 <item>
 <title>CNN</title>
-<link>https://video-auth8.iol.pt/ott1abr/Emissaoalt4148-popin/chunks.m3u8?nimblesessionid=351790337&wmsAuthSign=c2VydmVyX3RpbWU9Ni83LzIwMjIgMzoxMTozNyBQTSZoYXNoX3ZhbHVlPXhwTG1aTVNaMVlla0RMUlUrOHl5clE9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD1hZjZhMGRkNi1kNzMwLTQ1MWUtODM5OS1lNmZjYzY5OTZiYTI=&?wmsAuthSign=c2VydmVyX3RpbWU9Ni83LzIwMjIgMzoxMTozNyBQTSZoYXNoX3ZhbHVlPXhwTG1aTVNaMVlla0RMUlUrOHl5clE9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD1hZjZhMGRkNi1kNzMwLTQ1MWUtODM5OS1lNmZjYzY5OTZiYTI=</link>
+<link>https://video-auth2.iol.pt/live_cnn/live_cnn/edge_servers/cnn-480p/chunks.m3u8?nimblesessionid=397046270&wmsAuthSign=c2VydmVyX3RpbWU9Ni83LzIwMjIgMzoxMTozNyBQTSZoYXNoX3ZhbHVlPXhwTG1aTVNaMVlla0RMUlUrOHl5clE9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD1hZjZhMGRkNi1kNzMwLTQ1MWUtODM5OS1lNmZjYzY5OTZiYTI=</link>
 <thumbnail>LINK DA IMAGEM QUE FICA NO LADO DO KODI</thumbnail>
-<fanart>LINK DO FANART DO CANAL OU DO ADDON QUE FICA NO FUNDO</fanart>
-<info>INFO DOS CANAIS.</info>
 </item>
 
 <item>

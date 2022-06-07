@@ -1,6 +1,6 @@
 <item>
 <title>SPORT TV1</title>
-<link>https://qpbfxjcrsiogsqxo.wzcdn594.net:8443/hls/walxjawfo5x.m3u8?s=u2MUkHsm2HLszRcAcFrWpg&e=1654636845</link>
+<link>https://qpbfxjcrsiogsqxo.wzcdn594.net:8443/hls/walxjawfo5x.m3u8?s=SY0SElv2vxxAfenbaD6eTA&e=1654637326</link>
 <thumbnail>https://www.sporttv.pt/img/static/sport-tv-institucional.png</thumbnail>
 </item>
 

@@ -6,13 +6,6 @@
 </item>
 
 <item>
-<title>[B]FILME[/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=MAGNET</link>
-<thumbnail>THUMBNAIL DO FILME</thumbnail>
-<info>TEXTO DE SINOPSE.</info>
-</item>
-
-<item>
 <title>[B]Wyvern Hill[/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:C54978D253962BCD9A62D6DA626264104D108BDC&dn=VACATORRENT.COM.WEB-DL-1080P-LEGENDA-FIXA-MKV-2.11-GB.Hollow.2022.1080p.WEBRip.Legendado.mkv&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=http%3a%2f%2ftrax.corbina.net%3a6969%2fannounce</link>
 <thumbnail>https://vacatorrent.com/imagens/hollow-legendado-download-torrent-2022-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>

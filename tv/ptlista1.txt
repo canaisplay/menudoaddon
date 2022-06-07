@@ -1,15 +1,21 @@
 <item>
-<title>CNN</title>
-<link>https://video-auth2.iol.pt/live_cnn/live_cnn/edge_servers/cnn-480p/chunks.m3u8?nimblesessionid=397046270&wmsAuthSign=c2VydmVyX3RpbWU9Ni83LzIwMjIgMzoxMTozNyBQTSZoYXNoX3ZhbHVlPXhwTG1aTVNaMVlla0RMUlUrOHl5clE9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD1hZjZhMGRkNi1kNzMwLTQ1MWUtODM5OS1lNmZjYzY5OTZiYTI=</link>
-<thumbnail>LINK DA IMAGEM QUE FICA NO LADO DO KODI</thumbnail>
+<title>SPORT TV1</title>
+<link>https://qpbfxjcrsiogsqxo.wzcdn594.net:8443/hls/walxjawfo5x.m3u8?s=u2MUkHsm2HLszRcAcFrWpg&e=1654636845</link>
+<thumbnail>https://www.sporttv.pt/img/static/sport-tv-institucional.png</thumbnail>
 </item>
 
 <item>
-<title>Vevo 2</title>
-<link>https://link-do.m3u8|User-Agent=ExoMedia</link>
-<thumbnail>LINK DA IMAGEM QUE FICA NO LADO DO KODI</thumbnail>
-<fanart>LINK DO FANART DO CANAL OU DO ADDON QUE FICA NO FUNDO</fanart>
-<info>INFO DOS CANAIS.</info>
+<title>SPORT TV2</title>
+<link>https://qpbfxjcrsiogsqxo.wzcdn594.net:8443/hls/u225jtufy2dkv.m3u8?s=FNgJ9IcXhajuSQy46ne4rA&e=1654636955</link>
+<thumbnail>https://www.sporttv.pt/img/static/sport-tv-institucional.png</thumbnail>
 </item>
+
+<item>
+<title>SPORT TV3</title>
+<link>https://qpbfxjcrsiogsqxo.wzcdn594.net:8443/hls/t69y1s69ffvz.m3u8?s=1_PNPc2zRbF0Zqtxf9fEqQ&e=1654637009</link>
+<thumbnail>https://www.sporttv.pt/img/static/sport-tv-institucional.png</thumbnail>
+</item>
+
+
 
 

@@ -16,6 +16,17 @@
 <thumbnail>https://www.sporttv.pt/img/static/sport-tv-institucional.png</thumbnail>
 </item>
 
+<item>
+<title>SPORT TV4</title>
+<link>https://qpbfxjcrsiogsqxo.wzcdn594.net:8443/hls/0zer896oz3mv6.m3u8?s=C_ckuMvP44RpBgJRU3rnaQ&e=1654637146</link>
+<thumbnail>https://www.sporttv.pt/img/static/sport-tv-institucional.png</thumbnail>
+</item>
+
+<item>
+<title>SPORT TV5</title>
+<link>https://qpbfxjcrsiogsqxo.wzcdn594.net:8443/hls/war3u.m3u8?s=Hlh8nVWToRiatEnXgPNteA&e=1654637200</link>
+<thumbnail>https://www.sporttv.pt/img/static/sport-tv-institucional.png</thumbnail>
+</item>
 
 
 

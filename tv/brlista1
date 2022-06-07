@@ -1,55 +1,55 @@
 <item>
-<title>Vevo 1</title>
-<link>https://link-do.m3u8</link>
-<thumbnail>LINK DA IMAGEM QUE FICA NO LADO DO KODI</thumbnail>
+<title>Globo RJ</title>
+<link>http://186.227.63.210:5000/live/GLOBORJ/720p.m3u8</link>
+<thumbnail>https://i.imgur.com/TL9HqlP.png</thumbnail>
 </item>
 
 <item>
-<title>Vevo 1</title>
-<link>https://link-do.m3u8</link>
-<thumbnail>LINK DA IMAGEM QUE FICA NO LADO DO KODI</thumbnail>
+<title>Globo SP</title>
+<link>http://45.232.196.7:5000/live/GLOBOSPHD/720p.m3u8</link>
+<thumbnail>https://i.imgur.com/TL9HqlP.png</thumbnail>
 </item>
 
 <item>
-<title>Vevo 1</title>
-<link>https://link-do.m3u8</link>
-<thumbnail>LINK DA IMAGEM QUE FICA NO LADO DO KODI</thumbnail>
+<title>AmazonSat</title>
+<link>https://amazonsat.brasilstream.com.br/hls/amazonsat/index.m3u8</link>
+<thumbnail>https://i.imgur.com/o3UC3Aj.png</thumbnail>
 </item>
 
 <item>
-<title>Vevo 1</title>
-<link>https://link-do.m3u8</link>
-<thumbnail>LINK DA IMAGEM QUE FICA NO LADO DO KODI</thumbnail>
+<title>Band</title>
+<link>https://evpp.mm.uol.com.br/geob_band/band/playlist.m3u8</link>
+<thumbnail>https://i.imgur.com/CV5RsPr.png</thumbnail>
 </item>
 
 <item>
-<title>Vevo 1</title>
-<link>https://link-do.m3u8</link>
-<thumbnail>LINK DA IMAGEM QUE FICA NO LADO DO KODI</thumbnail>
+<title>Band Mais</title>
+<link>https://enc1.proxy.tokplay.com.br/BAND-MAIS-HD/index.m3u8</link>
+<thumbnail>https://i.imgur.com/dal1lDK.png</thumbnail>
 </item>
 
 <item>
-<title>Vevo 1</title>
-<link>https://link-do.m3u8</link>
-<thumbnail>LINK DA IMAGEM QUE FICA NO LADO DO KODI</thumbnail>
+<title>Band Minas</title>
+<link>http://evpp.mm.uol.com.br:1935/bandpracas/debatemg/playlist.m3u8</link>
+<thumbnail>https://i.imgur.com/DSIv6Is.png</thumbnail>
 </item>
 
 <item>
-<title>Vevo 1</title>
-<link>https://link-do.m3u8</link>
-<thumbnail>LINK DA IMAGEM QUE FICA NO LADO DO KODI</thumbnail>
+<title>Band Rio</title>
+<link>http://186.227.63.210:5000/live/BANDRJ/720p.m3u8</link>
+<thumbnail>https://i.imgur.com/0gGq70N.png</thumbnail>
 </item>
 
 <item>
-<title>Vevo 1</title>
-<link>https://link-do.m3u8</link>
-<thumbnail>LINK DA IMAGEM QUE FICA NO LADO DO KODI</thumbnail>
+<title>Band SP</title>
+<link>http://45.232.196.7:5000/live/BANDSPHD/720p.m3u8</link>
+<thumbnail>https://i.imgur.com/S3LnZR8.png</thumbnail>
 </item>
 
 <item>
-<title>Vevo 1</title>
-<link>https://link-do.m3u8</link>
-<thumbnail>LINK DA IMAGEM QUE FICA NO LADO DO KODI</thumbnail>
+<title>Band SP</title>
+<link>https://evpp.mm.uol.com.br/geob_band/app/playlist.m3u8</link>
+<thumbnail>https://i.imgur.com/S3LnZR8.png</thumbnail>
 </item>
 
 <item>
